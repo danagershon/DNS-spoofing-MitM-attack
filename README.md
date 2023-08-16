@@ -2,8 +2,11 @@
 Network Security Course Spring 2023 HW3: DNS spoofing MitM attack example
 
 • Simulating a DNS spoofing attack on a client
+
 • Attacker sends a spoofed DNS response to the client containing the IP address of the attacker
+
 • Attacker acts as a Man in the Middle: reads, modifies, and forwards packets between the client and the server without them knowing
+
 • Attacker steals the client's username and password by listening to the client logging in
 
 **files:**
