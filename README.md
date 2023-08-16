@@ -1,5 +1,5 @@
 # DNS-spoofing-MitM-attack
-Network Security Course Spring 2023 HW3: DNS spoofing MitM attack example
+Network Security Course HW3: DNS spoofing MitM attack example
 
 • Simulating a DNS spoofing attack on a client
 
