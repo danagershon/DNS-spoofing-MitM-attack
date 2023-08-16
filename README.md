@@ -1,4 +1,4 @@
-# DNS-spoofing-MitM-attack
+# DNS spoofing MitM attack
 Network Security Course HW3: DNS spoofing MitM attack example
 
 • Simulating a DNS spoofing attack on a client
